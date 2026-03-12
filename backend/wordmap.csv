@@ -1,0 +1,36 @@
+word,Synonyms,Antonyms,spelling
+naked,"bare,uncovered,exposed,nude","clothed,covered",named
+exposed,"uncovered,revealed,bare,unprotected","covered,hidden,protected","exposure,expose"
+protected,"guarded,shielded,secured,defended","exposed,vulnerable,unprotected","projected,protested"
+guarded,"cautious,reserved,wary,restrained","open,unreserved,frank",guardian
+covered,"protected,shielded,concealed,hidden,veiled","exposed,uncovered,bare",coveted
+named,"called,designated,titled,labeled,termed","unnamed,anonymous","name,names"
+uncovered,"exposed,bare,naked,open","covered,hidden",discovered
+termed,"called,named,designated,labeled","unnamed,anonymous","teemed,termed"
+designated,"appointed,assigned,selected,specified","undesignated,unassigned",designate
+titled,"named,called,designated,labeled","untitled,unnamed",tilted
+called,"named,termed,dubbed,labeled","unnamed,anonymous",caller
+unnamed,"anonymous,nameless,unidentified,untitled","named,identified",unarmed
+names,"titles,designations,labels,monikers,appellations","anonymity,namelessness","named,naming"
+labeled,"tagged,marked,identified,categorized","unlabeled,unmarked",labelled
+bare,"naked,uncovered,exposed,stripped","covered,clothed",bear
+bear,"endure,tolerate,stand,withstand","avoid,escape",bare
+tilted,"slanted,leaning,inclined,askew","straight,level,upright","tilled,tilt"
+rot,"decay,decompose,spoil,deteriorate","flourish,thrive","rod,rote"
+spoil,"ruin,damage,indulge,decay","preserve,improve",spool
+spool,"reel,bobbin,cylinder,roll","unwind,unroll","spoon,spoor"
+spoon,"ladle,scoop,tablespoon,teaspoon","fork,knife","spool,spoonful"
+fork,"branch,divide,split,prong","join,unite","folk,form"
+divide,"separate,split,partition,sever","unite,combine",divine
+accept,"receive,approve,acknowledge,embrace","reject,decline,deny","except,access"
+form,"shape,structure,format,configuration","amorphousness,shapelessness","from,foam"
+folk,"people,community,population,public,citizenry","elite,aristocracy,individual",fork
+population,"inhabitants,citizenry,community,residents,populace","individual,emptiness","popular,populate"
+populace,"population,public,people,masses,citizenry","elite,aristocracy,nobility","popular,populous"
+from,"out of,since,away from,off","to,toward",form
+public,"common,general,open,communal,accessible","private,secret,confidential",public
+configuration,"arrangement,setup,structure,layout,composition","disorder,chaos,disarray","confirmation,conformation"
+foam,"froth,bubbles,lather,suds","solid,liquid","form,foal"
+branch,"limb,bough,division,subdivision,offshoot","trunk,mainstream,headquarters","brunch,blanch"
+prong,"tine,point,spike,branch","whole,base","prang,pronghorn"
+aristocracy,"nobility,elite,gentry,patriciate,upper class","commoners,proletariat,democracy","aristocrat,autocracy"
