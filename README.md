@@ -13,7 +13,7 @@
 
 ### 1. 后端
 
-先修改llm_config.json 或启动后在设置里修改
+先修改 llm_config.json 或启动后在设置里修改
 
 ```bash
 cd backend
